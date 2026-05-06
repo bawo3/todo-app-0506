@@ -40,7 +40,7 @@ todo-app/
 ```json
 {
   "id": 1715000000000,
-  "text": "할 일 내용",
+  "text": "할 일 내용ggggggggggg",
   "completed": false
 }
 ```
